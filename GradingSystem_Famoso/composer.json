@@ -1,0 +1,16 @@
+{
+    "name": "famoso/gs",
+    "description": "Basic Student Grading Sysem",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Famoso\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carl Famoso"
+        }
+    ],
+    "require": {}
+}
